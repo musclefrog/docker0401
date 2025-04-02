@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   nginx:
-    image: 211.183.3.200:5000/mynginx:1.0
+    image: rlatndls113/myweb:1.0
     deploy:
       replicas: 3
       placement:
