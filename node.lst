@@ -1,0 +1,7 @@
+[manager]
+211.183.3.200 ansible_user=user1
+
+[worker]
+211.183.3.201 ansible_user=user1
+211.183.3.202 ansible_user=user1
+211.183.3.203 ansible_user=user1
